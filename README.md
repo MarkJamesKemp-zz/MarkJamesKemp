@@ -16,7 +16,37 @@
 <p align="center">
   <a
     title="Visit my CTFL certificate"
-    href="https://skillshub.isqi.org/jpp8kloi"
+    href=""
+    target="_blank">
+      <img
+        alt="CTFL badge"
+        width="150px"
+        height="150px"
+        src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+  </a>
+    <a
+    title="Visit my CTFL certificate"
+    href=""
+    target="_blank">
+      <img
+        alt="CTFL badge"
+        width="150px"
+        height="150px"
+        src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+  </a>
+    <a
+    title="Visit my CTFL certificate"
+    href=""
+    target="_blank">
+      <img
+        alt="CTFL badge"
+        width="150px"
+        height="150px"
+        src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+  </a>
+    <a
+    title="Visit my CTFL certificate"
+    href=""
     target="_blank">
       <img
         alt="CTFL badge"
