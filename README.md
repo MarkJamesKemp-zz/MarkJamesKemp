@@ -15,44 +15,44 @@
 
 <p align="center">
   <a
-    title="Visit my CTFL certificate"
+    title=""
     href=""
     target="_blank">
       <img
         alt="CTFL badge"
         width="150px"
         height="150px"
-        src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+        src="https://i.ibb.co/SrrCwx4/CTFL.png">
   </a>
     <a
-    title="Visit my CTFL certificate"
+    title=""
     href=""
     target="_blank">
       <img
-        alt="CTFL badge"
+        alt="CTFL-AT badge"
         width="150px"
         height="150px"
-        src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+        src="https://i.ibb.co/8dLjzNZ/CTFL-AT.png">
   </a>
     <a
-    title="Visit my CTFL certificate"
+    title=""
     href=""
     target="_blank">
       <img
-        alt="CTFL badge"
+        alt="CTAL-TAE badge"
         width="150px"
         height="150px"
-        src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+        src="https://i.ibb.co/PcwhVZd/CTAL-TAE.png">
   </a>
     <a
-    title="Visit my CTFL certificate"
+    title=""
     href=""
     target="_blank">
       <img
-        alt="CTFL badge"
+        alt="Selenium Foundation"
         width="150px"
         height="150px"
-        src="https://s3.amazonaws.com/accredible-api-badge/1560852655189240.png">
+        src="https://i.ibb.co/WWhfFC3/Selenium-Foundation.png">
   </a>
 </p>
 
