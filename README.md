@@ -20,8 +20,8 @@
     target="_blank">
       <img
         alt="CTFL badge"
-        width="300px"
-        height="300px"
+        width="200px"
+        height="200px"
         src="https://i.ibb.co/SrrCwx4/CTFL.png">
   </a>
     <a
@@ -30,8 +30,8 @@
     target="_blank">
       <img
         alt="CTFL-AT badge"
-        width="400px"
-        height="400px"
+        width="200px"
+        height="200px"
         src="https://i.ibb.co/8dLjzNZ/CTFL-AT.png">
   </a>
     <a
@@ -40,8 +40,8 @@
     target="_blank">
       <img
         alt="CTAL-TAE badge"
-        width="400px"
-        height="400px"
+        width="200px"
+        height="200px"
         src="https://i.ibb.co/PcwhVZd/CTAL-TAE.png">
   </a>
     <a
@@ -50,8 +50,8 @@
     target="_blank">
       <img
         alt="Selenium Foundation"
-        width="400px"
-        height="400px"
+        width="200px"
+        height="200px"
         src="https://i.ibb.co/WWhfFC3/Selenium-Foundation.png">
   </a>
 </p>
