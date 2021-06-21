@@ -46,7 +46,7 @@
   </a>
     <a
     title=""
-    href=""
+    href="http://www.mark-kemp.info/wp-content/uploads/2021/06/iSQI-Webdriver.pdf"
     target="_blank">
       <img
         alt="Selenium Foundation"
