@@ -16,7 +16,7 @@
 <p align="center">
   <a
     title=""
-    href=""
+    href="http://www.mark-kemp.info/wp-content/uploads/2021/06/VG38332621.pdf"
     target="_blank">
       <img
         alt="CTFL badge"
@@ -36,7 +36,7 @@
   </a>
     <a
     title=""
-    href=""
+    href="http://www.mark-kemp.info/wp-content/uploads/2021/06/CTAL-TAE.pdf"
     target="_blank">
       <img
         alt="CTAL-TAE badge"
