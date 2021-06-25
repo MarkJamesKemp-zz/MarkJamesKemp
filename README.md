@@ -1,5 +1,8 @@
 ## About
-
+An ISTQB certified test professional with over 2 years’ experience working in the finance industry. A solid history of utilizing different testing methodologies during all phases of the software development and software testing life cycles. Well experienced in manual testing and user acceptance testing with a desire to move into automation testing. 
+Experience with waterfall and Agile methodologies with a good knowledge of Selenium WebDriver and C# / T-SQL languages. Independently able to create and maintain test cases / suites from user stories and build specifications. 
+Accustomed to working in complex, micro-service infrastructures completing end-to-end testing, regression testing, exploratory testing, system testing and confirmation testing. 
+Strong history of personal development and eager to learn and master new technologies 
 ## Certificates
 
 <p align="center">
