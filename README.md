@@ -48,7 +48,3 @@ Strong history of personal development and eager to learn and master new technol
         src="https://i.ibb.co/WWhfFC3/Selenium-Foundation.png">
   </a>
 </p>
-
-## Languages
-
-## Public Repo's
